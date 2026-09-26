@@ -16,7 +16,7 @@ Website: **https://scenemixer.com** · Sample series: **https://scenemixer.com/d
 1. **Read** — paste a script or novel, or write one with the built-in [AI script generator](https://scenemixer.com/ai-script-generator/). The parser extracts characters, locations, props and episodes and writes an outline per episode.
 2. **Cast** — a reference sheet is generated for every character, location and prop. Edit the descriptions, regenerate, or upload your own.
 3. **Storyboard** — each episode is broken into segments and each segment into shots: camera, framing, who is in frame, what is said.
-4. **Generate** — every segment becomes a video clip (typically 4–15 seconds, up to 30 on some model tiers). The default engine is Wan 3.0; other model tiers are selectable per project.
+4. **Generate** — every segment becomes a video clip of 4–30 seconds (the ceiling depends on the model tier). The default engine is Wan 3.0; other model tiers are selectable per project.
 5. **Assemble** — the clips are cut together into the episode and delivered as one file.
 
 Every step is editable before the next one runs, and the project saves itself so you can come back later.
@@ -48,6 +48,12 @@ That is the point of the reference sheets: each character has one, and every sho
 
 **Can I use my own video as the starting point?**
 Yes — an existing clip can be read and remade as a new series; see the [guides](https://scenemixer.com/guides/).
+
+## More in this repository
+
+- [spec.md](spec.md) — product facts: languages, aspect ratios, video model tiers, credits per step, free allowance, membership plans, limits (regenerated from the site's public pricing endpoint, dated).
+- [samples.md](samples.md) — the 23 public sample series with style, cast size, running time and language.
+- [guides.md](guides.md) — the 113 guides on the site, in order.
 
 **简体中文用户**：大陆站在 https://scenemixer.cn 。
 
